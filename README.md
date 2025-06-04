@@ -17,6 +17,11 @@ I'm a passionate developer who loves building things with code and learning new 
 ## ⏱️ My Coding Activity (Powered by WakaTime)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 🤝 Let’s Connect
