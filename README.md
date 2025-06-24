@@ -19,10 +19,8 @@ I'm a passionate developer who loves building things with code and learning new 
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         2 hrs 27 mins   ████████████████████████░   95.76 %
-TypeScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   3 mins          ███████████████████████▒░   93.57 %
+JSON         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 ```
 
 <!--END_SECTION:waka-->
