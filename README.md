@@ -19,8 +19,7 @@ I'm a passionate developer who loves building things with code and learning new 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 mins          ███████████████████████▒░   93.57 %
-JSON         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
